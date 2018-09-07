@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijaydaswani/nodejs-weather.git"
+  },
+  "author": "Vijay Daswani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vijaydaswani/nodejs-weather/issues"
+  },
+  "homepage": "https://github.com/Vijaydaswani/nodejs-weather#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
