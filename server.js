@@ -35,5 +35,5 @@ app.post('/', function (req, res) {
 })
 
 app.listen(3000, function () {
-  console.log('this app listening on port 3000!')
+  console.log('App listening on port 3000!')
 })
